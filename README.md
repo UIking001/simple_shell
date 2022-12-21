@@ -87,4 +87,4 @@ https://github.com/StellahMbao/simple_shell.git
 ## Acknowledgments :
 - The creators of the C language.
 - Our software engineer-in-residence.
-- Alx-Africa .
+- Alx-Africa.
